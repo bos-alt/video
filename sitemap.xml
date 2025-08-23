@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- الصفحة الرئيسية للفيديو -->
+  <url>
+    <loc>https://bos-alt.github.io/video/</loc>
+    <lastmod>2025-08-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- الحلقة 18 -->
+  <url>
+    <loc>https://bos-alt.github.io/video/Afrah_Iblis3_ep18.html</loc>
+    <lastmod>2025-08-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- الحلقة 19 -->
+  <url>
+    <loc>https://bos-alt.github.io/video/Afrah_Iblis3_ep19.html</loc>
+    <lastmod>2025-08-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>
