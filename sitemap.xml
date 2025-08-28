@@ -1,36 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
-
-  <!-- الصفحة الرئيسية للفيديو -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://bos-alt.github.io/video/</loc>
-    <lastmod>2025-08-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
+    <loc>https://sprightly-monstera-da91da.netlify.app/</loc>
+    <lastmod>2025-08-28</lastmod>
   </url>
-
-  <!-- الحلقة 17 -->
   <url>
-    <loc>https://bos-alt.github.io/video/Afrah_Iblis3_ep17.html</loc>
-    <lastmod>2025-08-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <loc>https://sprightly-monstera-da91da.netlify.app/afrah_iblis3_ep17</loc>
+    <lastmod>2025-08-28</lastmod>
   </url>
-
-  <!-- الحلقة 18 -->
   <url>
-    <loc>https://bos-alt.github.io/video/Afrah_Iblis3_ep18.html</loc>
-    <lastmod>2025-08-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://sprightly-monstera-da91da.netlify.app/afrah_iblis3_ep18</loc>
+    <lastmod>2025-08-28</lastmod>
   </url>
-
-  <!-- الحلقة 19 -->
   <url>
-    <loc>https://bos-alt.github.io/video/Afrah_Iblis3_ep19.html</loc>
-    <lastmod>2025-08-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://sprightly-monstera-da91da.netlify.app/afrah_iblis3_ep19</loc>
+    <lastmod>2025-08-28</lastmod>
   </url>
-
 </urlset>
+
